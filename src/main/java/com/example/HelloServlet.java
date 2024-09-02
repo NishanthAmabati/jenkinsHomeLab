@@ -18,6 +18,7 @@ public class HelloServlet extends HttpServlet {
 	response.getWriter().println("<p>But first what is DevOps></p>");
 	response.getWriter().println("<p>Change 1></p>");
 	response.getWriter().println("<p>Change 2></p>");
+	response.getWriter().println("<p>Change 3></p>");
     }
 }
 
